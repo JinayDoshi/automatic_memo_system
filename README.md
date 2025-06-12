@@ -17,11 +17,20 @@ An AI-powered system that generates formal memos for traffic violations like hel
 ## 🏗️ Folder Structure
 
 automatic_memo_system/
+
 ├── data/ # Input image/video data
+
 ├── offense_detection/ # Violation classification logic
+
 ├── memo_generator/ # AI-powered memo creation
+
 ├── templates/ # Markdown templates for memos
+
 ├── output/ # Generated memos
+
 ├── tests/ # Unit tests
+
 ├── main.py # Main executable script
+
 └── requirements.txt # Python dependencies
+
